@@ -141,8 +141,8 @@ Database Systems
 Data Structures & Algorithms
 Cloud Computing
 
-
-📚 Currently Learning
+```
+##📚 Currently Learning
 Advanced Data Structures & Algorithms
 Backend System Design
 Generative AI Applications
