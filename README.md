@@ -140,3 +140,12 @@ REST API Development
 Database Systems
 Data Structures & Algorithms
 Cloud Computing
+
+
+📚 Currently Learning
+Advanced Data Structures & Algorithms
+Backend System Design
+Generative AI Applications
+RAG Pipelines
+Cloud Deployment
+Scalable Backend Architecture
