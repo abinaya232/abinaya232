@@ -1,38 +1,142 @@
+<div align="center">
+
 # Hi 👋, I'm Abi
 
-### Pre-Final Year Computer Science Engineering Student | Aspiring Software Engineer
+### Pre-Final Year CSE Student | Aspiring Software Engineer
 
-I'm a Computer Science student interested in building backend systems, AI-powered applications, and solving real-world problems through software.
+Building backend systems, AI-powered applications, and solving problems with code.
 
-### About Me
+<p>
+  <a href="https://github.com/abinaya232">
+    <img src="https://img.shields.io/github/followers/abinaya232?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/abinaya232?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-- 🎓 Pre-Final Year CSE Student
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Pre-Final Year Computer Science Engineering Student
 - 💻 Interested in Backend Development and Software Engineering
 - 🤖 Exploring Generative AI, LLMs, and RAG
 - 🧩 Practicing Data Structures and Algorithms
-- ☁️ Learning Cloud and scalable application development
+- ☁️ Exploring Cloud Technologies and Deployment
+- 🔨 Building practical backend and AI-powered applications
 
-### Technical Skills
+---
 
-**Languages:** Java, C,Python, SQL
+## 🛠️ Tech Stack
 
-**Backend:** FastAPI,REST APIs,Node.js
+### Languages
 
-**Databases:** PostgreSQL, MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,mysql&perline=6" />
+</p>
 
-**AI / GenAI:** LLMs, RAG, AI APIs, Prompt Engineering
+### Backend & Databases
 
-**Tools & Cloud:** Git, GitHub, Docker, Google Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,mysql&perline=6" />
+</p>
 
-### Featured Projects
+### AI / Data
 
-- **VDesign AI** — AI-powered conversational interior design application
-- **MPLADS RiskGraph AI** — Project risk and anomaly analysis using graph-based techniques
-- **Multi-Agent Academic Project Mentor** — AI system for project idea generation, planning, and documentation
-- **Job Tracker** — Application for managing and tracking job applications
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn&perline=6" />
+</p>
 
-### Coding & Profiles
+### Tools & Cloud
 
-- [LeetCode](https://leetcode.com/u/nBZDo8LjHt/)
-- [Codeforces](https://codeforces.com/profile/abinaya232)
-- [LinkedIn](https://www.linkedin.com/in/abinaya232/)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,vscode,postman&perline=6" />
+</p>
+
+The skill-icon service supports specifying icons directly in the README and controlling the number per line. :contentReference[oaicite:1]{index=1}
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### VDesign AI
+
+AI-powered conversational interior design application.
+
+**Focus:**
+- Backend APIs
+- AI-powered chat
+- RAG
+- PostgreSQL
+- Image generation
+
+</td>
+
+<td width="50%">
+
+### MPLADS RiskGraph AI
+
+Project risk and anomaly analysis system.
+
+**Focus:**
+- Machine Learning
+- Graph analysis
+- Anomaly detection
+- Risk intelligence
+- PostgreSQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Multi-Agent Academic Project Mentor
+
+AI-powered academic project assistant.
+
+**Focus:**
+- Multi-agent workflow
+- LLMs
+- RAG
+- Project planning
+- Documentation generation
+
+</td>
+
+<td width="50%">
+
+### Job Tracker
+
+Application for managing and tracking job applications.
+
+**Focus:**
+- Backend development
+- REST APIs
+- Database management
+- Application tracking
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Areas of Interest
+
+```text
+Backend Engineering
+Generative AI
+Large Language Models
+Retrieval-Augmented Generation
+REST API Development
+Database Systems
+Data Structures & Algorithms
+Cloud Computing
