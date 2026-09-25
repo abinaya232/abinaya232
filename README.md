@@ -131,21 +131,22 @@ Application for managing and tracking job applications.
 
 ## 💡 Areas of Interest
 
-```text
-Backend Engineering
-Generative AI
-Large Language Models
-Retrieval-Augmented Generation
-REST API Development
-Database Systems
-Data Structures & Algorithms
-Cloud Computing
+- Backend Engineering
+- Generative AI
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- REST API Development
+- Database Systems
+- Data Structures & Algorithms
+- Cloud Computing
 
-```
-##📚 Currently Learning
-Advanced Data Structures & Algorithms
-Backend System Design
-Generative AI Applications
-RAG Pipelines
-Cloud Deployment
-Scalable Backend Architecture
+---
+
+## 📚 Currently Learning
+
+- Advanced Data Structures & Algorithms
+- Backend System Design
+- Generative AI Applications
+- RAG Pipelines
+- Cloud Deployment
+- Scalable Backend Architecture
