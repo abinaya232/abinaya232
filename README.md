@@ -150,3 +150,8 @@ Application for managing and tracking job applications.
 - RAG Pipelines
 - Cloud Deployment
 - Scalable Backend Architecture
+
+
+
+📊 GitHub Statistics
+<p align="center"> <img src="./profile/stats.svg" width="48%" /> <img src="./profile/top-langs.svg" width="48%" /> </p> <p align="center"> <img src="./profile/streak.svg" width="70%" /> </p>
